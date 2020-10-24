@@ -1,3 +1,3 @@
 # chigrin_lab4
 First final commit for the first part of the task: 
-c54c154a91f915ba007f8bafba9b6ecf875868d8
+f852a1aa86b29a45d430960910d4d72ef9e0748d
